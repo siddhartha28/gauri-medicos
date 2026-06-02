@@ -4,7 +4,7 @@ export const BUSINESS = {
   year: 2019,
   city: 'Moradabad',
   area: 'Ramganga Vihar, Moradabad',
-  whatsappNumber: '919927081917',
+  whatsappNumber: '919927080917',
   phone: '9927080913',
   email: 'gaurimedicos2019@gmail.com',
   address: 'Gauri Medicos, Ramganga Vihar, Budh Bazaar, Moradabad, Uttar Pradesh 244001',
