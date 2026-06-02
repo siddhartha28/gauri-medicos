@@ -1,3 +1,4 @@
+import OfferBanner from './components/OfferBanner';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import WhatsAppOrder from './components/WhatsAppOrder';
@@ -15,6 +16,7 @@ import FloatingWhatsApp from './components/FloatingWhatsApp';
 export default function App() {
   return (
     <div className="min-h-screen">
+      <OfferBanner />
       <Navbar />
       <main>
         <Hero />

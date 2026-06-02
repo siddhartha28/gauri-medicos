@@ -23,7 +23,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="pt-20 lg:pt-24 min-h-screen bg-gradient-to-br from-primary-light via-white to-white flex items-center"
+      className="pt-24 lg:pt-28 min-h-screen bg-gradient-to-br from-primary-light via-white to-white flex items-center"
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-24 w-full">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
