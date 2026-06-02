@@ -41,7 +41,7 @@ export default function About() {
             <p className="text-gray-600 leading-relaxed mb-8">
               Since {BUSINESS.year}, we have been serving the families of {BUSINESS.city} with
               dedication, care, and a commitment to your health. Whether you need a single tablet
-              or a month&apos;s supply, we&apos;re here for you — 24 hours a day, 7 days a week.
+              or a month&apos;s supply, we&apos;re here for you every day from 9:00 AM to 10:30 PM.
             </p>
 
             <ul className="grid sm:grid-cols-2 gap-3">
@@ -86,7 +86,7 @@ export default function About() {
                     { num: `${new Date().getFullYear() - BUSINESS.year}+`, label: 'Years Serving' },
                     { num: '4.9★', label: 'Rating' },
                     { num: '1000+', label: 'Medicines' },
-                    { num: '24/7', label: 'Available' },
+                    { num: '9–10:30', label: 'Open Daily' },
                   ].map((stat) => (
                     <div
                       key={stat.label}

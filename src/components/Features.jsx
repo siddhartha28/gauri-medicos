@@ -15,8 +15,8 @@ const features = [
   },
   {
     icon: <FaHeadset />,
-    title: '24/7 Support',
-    desc: 'Call or WhatsApp us anytime, day or night — we\'re always here.',
+    title: 'Easy to Reach',
+    desc: 'Call or WhatsApp us from 9 AM to 10:30 PM, every day.',
   },
   {
     icon: <FaTag />,

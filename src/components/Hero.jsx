@@ -4,7 +4,7 @@ import { MdLocalPharmacy } from 'react-icons/md';
 import { BUSINESS, WHATSAPP_ORDER_URL } from '../config/constants';
 
 const stats = [
-  { icon: <FaClock />, label: '24×7 Available' },
+  { icon: <FaClock />, label: '9AM–10:30PM' },
   { icon: <FaStar />, label: '4.9★ Rated' },
   { icon: <FaTruck />, label: 'Fast Delivery' },
   { icon: <FaTag />, label: 'Best Prices' },
@@ -48,7 +48,7 @@ export default function Hero() {
               className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight mb-5"
             >
               Get Your Medicines{' '}
-              <span className="text-primary">Delivered Fast,</span> 24/7
+              <span className="text-primary">Delivered Fast</span>
             </motion.h1>
 
             <motion.p

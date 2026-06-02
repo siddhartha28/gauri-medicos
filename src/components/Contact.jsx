@@ -37,7 +37,7 @@ const contacts = [
   {
     icon: <FaClock className="text-orange-500 text-2xl" />,
     label: 'Working Hours',
-    value: '24/7 — Always Open',
+    value: '9:00 AM – 10:30 PM, Every Day',
     bg: 'bg-orange-50',
   },
 ];

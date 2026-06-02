@@ -6,8 +6,8 @@ import { BUSINESS } from '../config/constants';
 
 const faqs = [
   {
-    q: 'Do you deliver 24/7?',
-    a: 'Yes! We are available 24 hours a day, 7 days a week. You can place orders any time via WhatsApp and we will arrange delivery as soon as possible.',
+    q: 'What are your working hours?',
+    a: 'We are open every day from 9:00 AM to 10:30 PM. You can place orders via WhatsApp during these hours and we will arrange delivery as soon as possible.',
   },
   {
     q: 'How do I place an order on WhatsApp?',
